@@ -1,0 +1,52 @@
+{
+  "nav": {
+    "home": "Home",
+    "podcasts": "Podcasts",
+    "explore": "Explore",
+    "subscriptions": "Subscriptions",
+    "about": "About"
+  },
+  "home": {
+    "title": "Home",
+    "headline": "Welcome to Podcraft",
+    "tagline": "Discover and track your favourite podcasts.",
+    "browse": "Browse podcasts →"
+  },
+  "podcasts": {
+    "title": "Podcasts",
+    "search": "Search podcasts...",
+    "loading": "Loading...",
+    "latestEpisodes": "Latest episodes",
+    "back": "← Back",
+    "subscribe": "+ Subscribe",
+    "subscribed": "✓ Subscribed",
+    "moreIn": "More in",
+    "loadingRelated": "Loading related...",
+    "notFound": "Podcast not found.",
+    "errorLoading": "Could not load podcast."
+  },
+  "explore": {
+    "title": "Explore",
+    "headline": "Explore podcasts"
+  },
+  "subscriptions": {
+    "title": "My Subscriptions",
+    "empty": "No subscriptions yet. Browse podcasts and subscribe.",
+    "remove": "Remove",
+    "podcastLabel": "Podcast"
+  },
+  "about": {
+    "title": "About",
+    "description": "Podcraft helps you discover, subscribe and track podcasts."
+  },
+  "login": {
+    "title": "Login",
+    "message": "You need to log in to access",
+    "back": "← Go back"
+  },
+  "errors": {
+    "notFound": "Page not found.",
+    "back": "← Back to home"
+  },
+  "footer": "© Podcraft — JR Corp"
+}

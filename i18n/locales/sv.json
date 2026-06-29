@@ -1,0 +1,52 @@
+{
+  "nav": {
+    "home": "Hem",
+    "podcasts": "Podcasts",
+    "explore": "Utforska",
+    "subscriptions": "Prenumerationer",
+    "about": "Om oss"
+  },
+  "home": {
+    "title": "Hem",
+    "headline": "Välkommen till Podcraft",
+    "tagline": "Upptäck och följ dina favoritpodcasts.",
+    "browse": "Utforska podcasts →"
+  },
+  "podcasts": {
+    "title": "Podcasts",
+    "search": "Sök podcasts...",
+    "loading": "Laddar...",
+    "latestEpisodes": "Senaste avsnitt",
+    "back": "← Tillbaka",
+    "subscribe": "+ Prenumerera",
+    "subscribed": "✓ Prenumererad",
+    "moreIn": "Mer inom",
+    "loadingRelated": "Laddar relaterade...",
+    "notFound": "Podcast hittades inte.",
+    "errorLoading": "Kunde inte ladda podcast."
+  },
+  "explore": {
+    "title": "Utforska",
+    "headline": "Utforska podcasts"
+  },
+  "subscriptions": {
+    "title": "Mina prenumerationer",
+    "empty": "Inga prenumerationer ännu. Bläddra och prenumerera på podcasts.",
+    "remove": "Ta bort",
+    "podcastLabel": "Podcast"
+  },
+  "about": {
+    "title": "Om oss",
+    "description": "Podcraft hjälper dig att upptäcka, prenumerera på och följa podcasts."
+  },
+  "login": {
+    "title": "Logga in",
+    "message": "Du måste logga in för att komma åt",
+    "back": "← Gå tillbaka"
+  },
+  "errors": {
+    "notFound": "Sidan hittades inte.",
+    "back": "← Tillbaka till startsidan"
+  },
+  "footer": "© Podcraft — JR Corp"
+}

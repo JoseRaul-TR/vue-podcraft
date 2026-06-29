@@ -1,0 +1,52 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "podcasts": "Podcasts",
+    "explore": "Explorar",
+    "subscriptions": "Suscripciones",
+    "about": "Acerca de"
+  },
+  "home": {
+    "title": "Inicio",
+    "headline": "Bienvenido a Podcraft",
+    "tagline": "Descubre y sigue tus podcasts favoritos.",
+    "browse": "Explorar podcasts →"
+  },
+  "podcasts": {
+    "title": "Podcasts",
+    "search": "Buscar podcasts...",
+    "loading": "Cargando...",
+    "latestEpisodes": "Últimos episodios",
+    "back": "← Volver",
+    "subscribe": "+ Suscribirse",
+    "subscribed": "✓ Suscrito",
+    "moreIn": "Más en",
+    "loadingRelated": "Cargando relacionados...",
+    "notFound": "Podcast no encontrado.",
+    "errorLoading": "No se pudo cargar el podcast."
+  },
+  "explore": {
+    "title": "Explorar",
+    "headline": "Explorar podcasts"
+  },
+  "subscriptions": {
+    "title": "Mis suscripciones",
+    "empty": "Sin suscripciones todavía. Explora y suscríbete a podcasts.",
+    "remove": "Eliminar",
+    "podcastLabel": "Podcast"
+  },
+  "about": {
+    "title": "Acerca de",
+    "description": "Podcraft te ayuda a descubrir, suscribirte y seguir podcasts."
+  },
+  "login": {
+    "title": "Iniciar sesión",
+    "message": "Necesitas iniciar sesión para acceder a",
+    "back": "← Volver"
+  },
+  "errors": {
+    "notFound": "Página no encontrada.",
+    "back": "← Volver al inicio"
+  },
+  "footer": "© Podcraft — JR Corp"
+}
