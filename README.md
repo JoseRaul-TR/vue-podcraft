@@ -79,7 +79,9 @@ bun run dev
 
 4. Open http://localhost:3000 in your browser.
 
-### 📂 Project Structure
+---
+
+## 📂 Project Structure
 
 ```
 nuxt-podcraft/
@@ -102,16 +104,20 @@ nuxt-podcraft/
 └── README.md             # This file
 ```
 
-### 🌐 API Endpoints
+---
+
+## 🌐 API Endpoints
 
 | Endpoint           | Description                          | Method |
 | ------------------ | ------------------------------------ | ------ |
 | /api/podcasts      | Search podcasts (query: term, limit) | GET    |
 | /api/podcasts/[id] | Get podcast details and episodes     | GET    |
 
-### 🎨 Customization
+---
 
-#### Adding a New Language
+## 🎨 Customization
+
+### Adding a New Language
 
 1. Add a new locale in nuxt.config.ts:
 
@@ -128,7 +134,7 @@ i18n: {
 
 3. Use the new locale in the app with useI18n().
 
-#### Changing the Theme
+### Changing the Theme
 
 Edit the CSS variables in app/app.vue:
 
@@ -140,41 +146,44 @@ Edit the CSS variables in app/app.vue:
   /* ... */
 }
 ```
+---
 
-### 📦 Dependencies
+## 📦 Dependencies
 
-#### Core
+### Core
 
 - Nuxt 4: The framework for building the app.
 - Vue 3: The progressive JavaScript framework.
 - Pinia: State management.
 - TanStack Query: Data fetching and caching.
 
-#### Utilities
+### Utilities
 
 - VueUse: Collection of useful composables.
 - Zod: Type-safe schema validation.
 
-#### i18n
+### i18n
 
 - @nuxtjs/i18n: Internationalization for Nuxt.
 
-### 🚀 Deployment
+---
 
-#### Vercel (Recommended)
+## 🚀 Deployment
+
+### Vercel (Recommended)
 
 1. Push your code to a GitHub repository.
 2. Import the project in Vercel.
 3. Deploy!
 
-#### Netlify
+### Netlify
 
 1. Push your code to a Git repository.
 2. Import the project in Netlify.
 3. Configure the build command: npm run build.
 4. Deploy!
 
-#### Static Hosting
+### Static Hosting
 
 For static hosting (e.g., GitHub Pages, Surge), run:
 
@@ -185,7 +194,9 @@ npm run generate
 
 This generates a static version of your app in the dist/ folder.
 
-### 🤝 Contributing
+---
+
+## 🤝 Contributing
 
 Contributions are welcome! Open an issue or submit a pull request.
 
@@ -195,15 +206,21 @@ Contributions are welcome! Open an issue or submit a pull request.
 4. Push to the branch (git push origin feature/amazing-feature).
 5. Open a Pull Request.
 
-### 📜 License
+---
+
+## 📜 License
 
 This project is licensed under the MIT License – see the LICENSE file for details.
 
-### 🙏 Acknowledgments
+---
+
+## 🙏 Acknowledgments
 
 Nuxt Documentation
 Vue Documentation
 iTunes Search API
 TanStack Query Docs
+
+---
 
 Built with ❤️ and Vue.
