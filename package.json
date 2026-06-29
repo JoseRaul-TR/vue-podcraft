@@ -1,7 +1,29 @@
 {
   "name": "nuxt-podcraft",
-  "type": "module",
+  "version": "1.0.0",
   "private": true,
+  "description": "A modern podcast discovery and subscription app built with Nuxt 4, Vue 3, Pinia, and TanStack Query.",
+  "keywords": [
+    "nuxt",
+    "vue",
+    "pinia",
+    "podcast",
+    "i18n",
+    "tanstack-query",
+    "typescript",
+    "learning-project"
+  ],
+  "homepage": "https://github.com/JoseRaul-TR/vue-podcraft#readme",
+  "bugs": {
+    "url": "https://github.com/JoseRaul-TR/vue-podcraft/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseRaul-TR/vue-podcraft.git"
+  },
+  "license": "MIT",
+  "author": "José Raúl Tenza Ramírez",
+  "type": "module",
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
@@ -19,5 +41,6 @@
     "vue": "^3.5.38",
     "vue-router": "^5.1.0",
     "zod": "^4.4.3"
-  }
+  },
+  "devDependencies": {}
 }
